@@ -1,5 +1,5 @@
 Hi there 👋
-|My name is Mikołaj, 19 years old full time student and Web/Mobile App Developer|
+|My name is Mikołaj, 19 years old full time student and Flutter Developer|
 
 |Flutter, Python, HTML/CSS, Bootstrap|
 
