@@ -1,11 +1,8 @@
 Hi there 👋
-|My name is Mikołaj, 19 years old full time student and Flutter Developer|
-
-|Flutter, Python, HTML/CSS, Bootstrap|
-
-Im currently working on: Banking application|Bank website 🤑
-
-Make sure you take a look at my all repositories, I hope you'll find something for you. 
-Do you want to make some projects for mutual education and fun? 
+My name is: Mikołaj
+Im studying in Uniwersity of Lodz, Faculity of Management 
+Buisess Process Automation/ Robotic Process Automation
+| UiPath, BluePrism, Automation Anywhere, Zapier. , VBA |
+Want contact with me?
 Mail Me!:
 kaczmarczyk2004inw@gmail.com 
