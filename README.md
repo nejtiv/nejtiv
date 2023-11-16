@@ -12,5 +12,9 @@ Buisness Process Automation 💸 / Robotic Process Automation 🤖
 
 
 Want contact with me?
+
+
 📧Mail Me!:
+
+
 kaczmarczyk2004inw@gmail.com 
