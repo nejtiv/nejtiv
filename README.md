@@ -1,8 +1,8 @@
-Hi there 👋
+Hi there! 👋
 My name is: Mikołaj
 
 
-Im studying in Uniwersity of Lodz, Faculity of Management 📈 📋
+I'm studying in Uniwersity of Lodz, Facility of Management 📈 📋
 
 
 Buisness Process Automation 💸 / Robotic Process Automation 🤖
