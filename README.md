@@ -8,7 +8,7 @@ Im studying in Uniwersity of Lodz, Faculity of Management 📈 📋
 Buisness Process Automation 💸 / Robotic Process Automation 🤖
 
 
-| UiPath, BluePrism, Automation Anywhere, Zapier. , VBA |
+| UiPath, BluePrism, Automation Anywhere, Zapier. , Python |
 
 
 Want contact with me?
