@@ -2,7 +2,7 @@ Hi there! 👋
 My name is: Mikołaj
 
 
-I'm studying in Uniwersity of Lodz, Facility of Management 📈 📋
+I'm studying in Uniwersity of Lodz, Faculty of Management 📈 📋
 
 
 Buisness Process Automation 💸 / Robotic Process Automation 🤖
