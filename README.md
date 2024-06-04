@@ -10,11 +10,3 @@ Buisness Process Automation 💸 / Robotic Process Automation 🤖
 
 | UiPath, BluePrism, Automation Anywhere, Zapier. , Python |
 
-
-Want contact with me?
-
-
-📧Mail Me!:
-
-
-kaczmarczyk2004inw@gmail.com 
