@@ -1,5 +1,5 @@
 # 💫 About Me:
-University of Lodz Student:<br>Faculty of Management<br>Business Process Automation - BPA<br><br>RPA Platform:<br>UiPath<br>Blue Prism<br><br>Languages:<br>Python, VBA
+University of Lodz Student:<br>Faculty of Management<br>Business Process Automation - BPA<br><br>RPA Platform:<br>UiPath<br>Blue Prism<br><br>Languages:<br>Python, VBA, C#
 
 
 ## 🌐 Socials:
